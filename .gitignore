@@ -5,4 +5,5 @@ pixi.lock
 pixi.toml 
 notebook.txt
 .pixi
-
+resources/
+.~lock*
