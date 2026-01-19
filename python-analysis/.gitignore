@@ -1,0 +1,12 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+.DS_Store
+.env/
+pixi*
+pixi.lock
+pixi.toml
+notebook.txt
+.pixi
+data/extra/
+data/unprepared 
